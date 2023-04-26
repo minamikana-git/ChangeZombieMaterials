@@ -1,0 +1,4 @@
+name: ChangeZombieMaterials
+version: '${project.version}'
+main: org.hotal.changezombiematerials.ChangeZombieMaterials
+api-version: 1.19
